@@ -117,7 +117,7 @@
 % \RequirePackage{marginfix}
 
 \setlength{\parindent}{0pt}
-\newcommand{\divider}{\textcolor{body!30}{\hdashrule{\linewidth}{0.6pt}{0.5ex}}\medskip}
+\newcommand{\divider}{\textcolor{body!20}{\hdashrule{\linewidth}{0.1pt}{0.01ex}}}
 
 \newenvironment{fullwidth}{%
   \begin{adjustwidth}{}{\dimexpr-\marginparwidth-\marginparsep\relax}}
@@ -221,7 +221,7 @@
 }
 
 \newcommand{\cveventv}[5]{%
-  {\large\color{emphasis}#1\par}
+  {\color{emphasis}#1\par}
   \smallskip\normalsize
   \ifstrequal{#2}{}{}{
   \textbf{\color{accent}#2}\par
