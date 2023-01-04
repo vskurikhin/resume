@@ -2,4 +2,5 @@
 
 I works Software Developer and prefere Open Source && [Go](https://golang.org) && [Java](https://openjdk.java.net/) && [PostgreSQL](https://www.postgresql.org/).
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/vskurikhin/DayBook-3.0)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vskurikhin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
